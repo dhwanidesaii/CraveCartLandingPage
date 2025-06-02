@@ -1,10 +1,17 @@
-Crave Cart
+# 🛒 Crave Cart
 
-Crave Cart is a stylish and responsive landing page for a fictional food delivery service. Built with modern HTML and CSS, the project focuses on clear navigation, clean layout, and appealing visuals.
+**Crave Cart** is a stylish and responsive landing page for a fictional food delivery service. Built with modern HTML and CSS, the project focuses on clear navigation, clean layout, and appealing visuals.
 
+---
 
+## 📸 Screenshots
 
-Features
+> _Coming soon..._  
+> (You can add screenshots of your site in this section later.)
+
+---
+
+## ✨ Features
 
 - ✅ Fully responsive design (mobile and desktop)
 - 🍕 Menu section with popular food items
@@ -13,16 +20,19 @@ Features
 - 💅 Soft pastel color scheme and smooth hover effects
 - 🔘 Reusable buttons and card layouts
 
+---
 
-Tech Stack
+## 🛠️ Tech Stack
 
 - HTML5
 - CSS3
 - Media Queries (for responsiveness)
 
-How to Use
+---
 
-1. Clone the Repository
+## 🚀 How to Use
+
+1. **Clone the Repository**
 
 ```bash
 git clone https://github.com/dhwanidesaii/CraveCart.git
